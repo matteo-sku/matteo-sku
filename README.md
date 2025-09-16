@@ -5,7 +5,4 @@
 
 <img src="https://media.tenor.com/jD4sqQ5G6hIAAAAj/sonic-running.gif" width="100" />
 
-- 🛠️ Fintech • Web3 • Infra  
-- 🔐 Systems, performance & crypto  
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,solidity,nextjs,react,tailwind,bun,nodejs,cloudflare,deno,docker,elysia,grafana,prometheus,graphql,ipfs,kali,linux,postgres,redis,supabase,ubuntu,vercel,aws)](https://skillicons.dev) 
